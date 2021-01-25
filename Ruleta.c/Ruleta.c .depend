@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1598051213 source:/home/damian/Desktop/dami/Ruleta.c /Function.c
+	"Prototype.h"
+
+1597788144 /home/damian/Desktop/dami/Ruleta.c /Prototype.h
+	<stdio.h>
+	<stdlib.h>
+
+1598051740 source:/home/damian/Desktop/dami/Ruleta.c /main.c
+	"Prototype.h"
+
